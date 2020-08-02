@@ -7,9 +7,11 @@
 
 body{
     background: rgba(112, 112, 112, 0.527);
-
-}
-
+    animation: fadeInAnimation ease 1s; 
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+} 
+  
 nav{
     background: rgba(112, 112, 112, 0.63);
     width: 100%;
@@ -246,3 +248,12 @@ section h1 {
         stroke-dashoffset: 0;
     }
 }
+
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+     } 
+} 

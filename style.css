@@ -73,7 +73,7 @@ a {
     transition:color .2s ease-out, background 1s ease-in;
     text-decoration: none;
   }
-  a:hover { color:rgb(153, 0, 255); background:none; }
+  a:hover { color:rgb(255, 187, 0); background:none; }
 
 .intro {
     height: 100vh;

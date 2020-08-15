@@ -55,6 +55,23 @@ nav ul li{
     height:100vh;
 }
 
+.p3 p{
+    position: absolute;
+    top: 250%;
+    left: 40%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.p3 h1{
+    position: absolute;
+    top: 210%;
+    left: 40%;
+    font-size: 64px;
+    color: rgb(255, 255, 255);
+}
+
+
 header img{
     position: absolute;
     height: 45%;

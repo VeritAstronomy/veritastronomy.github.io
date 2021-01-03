@@ -71,6 +71,22 @@ nav ul li{
     color: rgb(255, 255, 255);
 }
 
+.p4 p{
+    position: absolute;
+    top: 350%;
+    left: 40%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.p4 h1{
+    position: absolute;
+    top: 310%;
+    left: 40%;
+    font-size: 64px;
+    color: rgb(255, 255, 255);
+}
+
 
 header img{
     position: absolute;
